@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mood on Yi-Ning&#39;s Blog Website</title>
+    <link>https://kity40720921.github.io/tags/mood/</link>
+    <description>Recent content in Mood on Yi-Ning&#39;s Blog Website</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 29 Oct 2020 10:07:47 +0800</lastBuildDate>
+    <atom:link href="https://kity40720921.github.io/tags/mood/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一篇文章測試</title>
+      <link>https://kity40720921.github.io/blog/post-10/</link>
+      <pubDate>Thu, 29 Oct 2020 10:07:47 +0800</pubDate>
+      <guid>https://kity40720921.github.io/blog/post-10/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+  </channel>
+</rss>
