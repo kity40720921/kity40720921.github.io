@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learn on Yi-Ning&#39;s Blog Website</title>
+    <link>https://kity40720921.github.io/categories/learn/</link>
+    <description>Recent content in Learn on Yi-Ning&#39;s Blog Website</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://kity40720921.github.io/categories/learn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>架設個人網站－持續補文中</title>
+      <link>https://kity40720921.github.io/blog/first-post/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0800</pubDate>
+      <guid>https://kity40720921.github.io/blog/first-post/</guid>
+      <description>架設個人網站/部落格！補文中 補文章需要些時間（汗 如果不嫌棄&#xA;可以先去我的 Behance 欣賞作品：&#xA;https://www.behance.net/c034c8ce 有點久沒有用 Markdown 來撰寫文章了，有些生疏</description>
+    </item>
+    <item>
+      <title>Title</title>
+      <link>https://kity40720921.github.io/blog/template/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0800</pubDate>
+      <guid>https://kity40720921.github.io/blog/template/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+  </channel>
+</rss>

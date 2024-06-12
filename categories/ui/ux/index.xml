@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UI/UX on Yi-Ning&#39;s Blog Website</title>
+    <link>https://kity40720921.github.io/categories/ui/ux/</link>
+    <description>Recent content in UI/UX on Yi-Ning&#39;s Blog Website</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 30 Dec 2021 10:00:00 +0800</lastBuildDate>
+    <atom:link href="https://kity40720921.github.io/categories/ui/ux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>影音學習平台設計</title>
+      <link>https://kity40720921.github.io/blog/learning-platform/</link>
+      <pubDate>Thu, 30 Dec 2021 10:00:00 +0800</pubDate>
+      <guid>https://kity40720921.github.io/blog/learning-platform/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>數位系虛擬互動導覽裝置</title>
+      <link>https://kity40720921.github.io/blog/guide/</link>
+      <pubDate>Mon, 10 Feb 2020 09:00:00 +0800</pubDate>
+      <guid>https://kity40720921.github.io/blog/guide/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>大學畢業專題 國小能源教育網站</title>
+      <link>https://kity40720921.github.io/blog/energy-website/</link>
+      <pubDate>Sun, 01 Dec 2019 08:00:00 +0800</pubDate>
+      <guid>https://kity40720921.github.io/blog/energy-website/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

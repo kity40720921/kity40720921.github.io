@@ -6,35 +6,56 @@
     <description>Recent content on Yi-Ning&#39;s Blog Website</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 29 Oct 2020 10:07:47 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://kity40720921.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>第一篇文章測試</title>
-      <link>https://kity40720921.github.io/blog/post-10/</link>
-      <pubDate>Thu, 29 Oct 2020 10:07:47 +0800</pubDate>
-      <guid>https://kity40720921.github.io/blog/post-10/</guid>
+      <title>架設個人網站－持續補文中</title>
+      <link>https://kity40720921.github.io/blog/first-post/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0800</pubDate>
+      <guid>https://kity40720921.github.io/blog/first-post/</guid>
+      <description>架設個人網站/部落格！補文中 補文章需要些時間（汗 如果不嫌棄&#xA;可以先去我的 Behance 欣賞作品：&#xA;https://www.behance.net/c034c8ce 有點久沒有用 Markdown 來撰寫文章了，有些生疏</description>
+    </item>
+    <item>
+      <title>碩士論文研究</title>
+      <link>https://kity40720921.github.io/blog/master-research/</link>
+      <pubDate>Mon, 01 Jan 2024 10:07:47 +0800</pubDate>
+      <guid>https://kity40720921.github.io/blog/master-research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ewant學習平台數據分析 年報設計</title>
+      <link>https://kity40720921.github.io/blog/annual-report/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0800</pubDate>
+      <guid>https://kity40720921.github.io/blog/annual-report/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Title</title>
+      <link>https://kity40720921.github.io/blog/template/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0800</pubDate>
+      <guid>https://kity40720921.github.io/blog/template/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://kity40720921.github.io/blog/post-11/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://kity40720921.github.io/blog/post-11/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <title>影音學習平台設計</title>
+      <link>https://kity40720921.github.io/blog/learning-platform/</link>
+      <pubDate>Thu, 30 Dec 2021 10:00:00 +0800</pubDate>
+      <guid>https://kity40720921.github.io/blog/learning-platform/</guid>
+      <description></description>
     </item>
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://kity40720921.github.io/blog/post-12/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://kity40720921.github.io/blog/post-12/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <title>數位系虛擬互動導覽裝置</title>
+      <link>https://kity40720921.github.io/blog/guide/</link>
+      <pubDate>Mon, 10 Feb 2020 09:00:00 +0800</pubDate>
+      <guid>https://kity40720921.github.io/blog/guide/</guid>
+      <description></description>
     </item>
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://kity40720921.github.io/blog/post-13/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://kity40720921.github.io/blog/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <title>大學畢業專題 國小能源教育網站</title>
+      <link>https://kity40720921.github.io/blog/energy-website/</link>
+      <pubDate>Sun, 01 Dec 2019 08:00:00 +0800</pubDate>
+      <guid>https://kity40720921.github.io/blog/energy-website/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

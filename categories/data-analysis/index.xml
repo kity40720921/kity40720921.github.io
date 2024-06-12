@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analysis on Yi-Ning&#39;s Blog Website</title>
+    <link>https://kity40720921.github.io/categories/data-analysis/</link>
+    <description>Recent content in Data Analysis on Yi-Ning&#39;s Blog Website</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 01 Jan 2024 10:07:47 +0800</lastBuildDate>
+    <atom:link href="https://kity40720921.github.io/categories/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>碩士論文研究</title>
+      <link>https://kity40720921.github.io/blog/master-research/</link>
+      <pubDate>Mon, 01 Jan 2024 10:07:47 +0800</pubDate>
+      <guid>https://kity40720921.github.io/blog/master-research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ewant學習平台數據分析 年報設計</title>
+      <link>https://kity40720921.github.io/blog/annual-report/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0800</pubDate>
+      <guid>https://kity40720921.github.io/blog/annual-report/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

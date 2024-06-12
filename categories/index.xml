@@ -6,27 +6,34 @@
     <description>Recent content in Categories on Yi-Ning&#39;s Blog Website</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 29 Oct 2020 10:07:47 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://kity40720921.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>心得</title>
-      <link>https://kity40720921.github.io/categories/%E5%BF%83%E5%BE%97/</link>
+      <title>Learn</title>
+      <link>https://kity40720921.github.io/categories/learn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kity40720921.github.io/categories/%E5%BF%83%E5%BE%97/</guid>
+      <guid>https://kity40720921.github.io/categories/learn/</guid>
       <description></description>
     </item>
     <item>
-      <title>Go Language</title>
-      <link>https://kity40720921.github.io/categories/go-language/</link>
+      <title>Data Analysis</title>
+      <link>https://kity40720921.github.io/categories/data-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kity40720921.github.io/categories/go-language/</guid>
+      <guid>https://kity40720921.github.io/categories/data-analysis/</guid>
       <description></description>
     </item>
     <item>
-      <title>Programming Language</title>
-      <link>https://kity40720921.github.io/categories/programming-language/</link>
+      <title>UI/UX</title>
+      <link>https://kity40720921.github.io/categories/ui/ux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kity40720921.github.io/categories/programming-language/</guid>
+      <guid>https://kity40720921.github.io/categories/ui/ux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>大學</title>
+      <link>https://kity40720921.github.io/categories/%E5%A4%A7%E5%AD%B8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kity40720921.github.io/categories/%E5%A4%A7%E5%AD%B8/</guid>
       <description></description>
     </item>
   </channel>
