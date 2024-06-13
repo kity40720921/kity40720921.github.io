@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>研究所 on Yi-Ning&#39;s Blog Website</title>
-    <link>https://kity40720921.github.io/tags/%E7%A0%94%E7%A9%B6%E6%89%80/</link>
+    <link>http://localhost:1313/tags/%E7%A0%94%E7%A9%B6%E6%89%80/</link>
     <description>Recent content in 研究所 on Yi-Ning&#39;s Blog Website</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0800</lastBuildDate>
-    <atom:link href="https://kity40720921.github.io/tags/%E7%A0%94%E7%A9%B6%E6%89%80/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E7%A0%94%E7%A9%B6%E6%89%80/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ewant學習平台數據分析 年報設計</title>
-      <link>https://kity40720921.github.io/blog/annual-report/</link>
+      <link>http://localhost:1313/blog/annual-report/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0800</pubDate>
-      <guid>https://kity40720921.github.io/blog/annual-report/</guid>
+      <guid>http://localhost:1313/blog/annual-report/</guid>
       <description></description>
     </item>
     <item>
       <title>影音學習平台設計</title>
-      <link>https://kity40720921.github.io/blog/learning-platform/</link>
+      <link>http://localhost:1313/blog/learning-platform/</link>
       <pubDate>Thu, 30 Dec 2021 10:00:00 +0800</pubDate>
-      <guid>https://kity40720921.github.io/blog/learning-platform/</guid>
+      <guid>http://localhost:1313/blog/learning-platform/</guid>
       <description></description>
     </item>
   </channel>

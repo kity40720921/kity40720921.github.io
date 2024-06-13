@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Yi-Ning&#39;s Blog Website</title>
+    <link>http://localhost:1313/categories/research/</link>
+    <description>Recent content in Research on Yi-Ning&#39;s Blog Website</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 01 Jan 2024 10:07:47 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>碩士論文研究</title>
+      <link>http://localhost:1313/blog/master-research/</link>
+      <pubDate>Mon, 01 Jan 2024 10:07:47 +0800</pubDate>
+      <guid>http://localhost:1313/blog/master-research/</guid>
+      <description>做研究寫論文真的是漫漫長路呀 Respect 所有努力熬夜苦拚的研究生 ✨ 我的碩士論文標題為：以學習分析探索新聞媒體形塑社會氛圍與 MOOCs 學習意願及意圖的關係 標題很長，論文也寫的很長（笑）&#xA;主要是研究 疫情之下的社會氛圍對於大規模開放線上課程的學習者是否有產生意圖與行為 的影響</description>
+    </item>
+  </channel>
+</rss>
